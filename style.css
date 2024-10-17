@@ -1,0 +1,43 @@
+body{
+    
+background: turquoise;
+text-align: center;
+}
+
+.text{
+text-align: justify;
+background:yellow;
+margin: auto;
+padding: 10px;
+width: 600px;
+border: 10px rgb(89, 0, 255) ridge;
+}
+
+h1{
+background: green; 
+padding: 10px ;
+
+}
+.pfukfdjr{
+  padding: 7px;;
+  background: green;
+}
+
+.page{
+text-align: left;  
+background: red 10px;
+height: 20px;
+width: 80px;
+}
+.rfhnbyf{
+ text-align: left;
+}
+.blok{
+width: 600px;
+height:300px ;
+background: red ;
+justify-content: center;
+} 
+.box{
+  width: 25px;
+}
